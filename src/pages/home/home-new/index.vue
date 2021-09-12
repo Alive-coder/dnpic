@@ -9,7 +9,10 @@ export default {
     return {
     }
   },
-  methods: {}
+  methods: {},
+  mounted() {
+    
+  },
 }
 
 </script>
